@@ -2,7 +2,7 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background:url(../public/images/main2.jpg) #444;
+  background:url(../public/images/event1.jpg) #444;
   background-size: cover;
 }
 .text-underline {
